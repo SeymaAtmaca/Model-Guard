@@ -1,5 +1,7 @@
 # ModelGuardian AI
 
+> **Note:** This public repository is shared for presentation purposes only. Ongoing development is maintained in a private repository.
+
 > Runtime AI Governance & Oversight Platform for Autonomous AI Systems
 
 ModelGuardian AI is a multi-tenant AI governance platform designed to monitor, intercept, audit, and control autonomous AI agents, LLM-based workflows, and AI-driven decision systems in enterprise environments.
